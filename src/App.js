@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 // import { Container, Dropdown, Form, Header, List } from "semantic-ui-react";
 import { Button, Form, Dropdown, DropdownButton, ButtonGroup } from 'react-bootstrap'
 
+// Say goodbye to my little friend
 class App extends Component {
     constructor(props) {
         super(props);
